@@ -25,6 +25,7 @@ int main(void) {
             printf("%d, ", ptr[i]);
         }
         printf("\n");
+        printf("Memory is free.\n");
     }
     return 0;
 }
